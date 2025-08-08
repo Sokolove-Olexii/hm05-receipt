@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hm05-receipt/static/css/main.31d6cfe0.css",
+    "main.js": "/hm05-receipt/static/js/main.ec19bf60.js",
+    "static/js/453.d339a0ca.chunk.js": "/hm05-receipt/static/js/453.d339a0ca.chunk.js",
+    "index.html": "/hm05-receipt/index.html",
+    "main.ec19bf60.js.map": "/hm05-receipt/static/js/main.ec19bf60.js.map",
+    "453.d339a0ca.chunk.js.map": "/hm05-receipt/static/js/453.d339a0ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ec19bf60.js"
+  ]
+}
